@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheshta</h1>
-<h3 align="center">A passionate computer science student with a keen interest in AI/ML, web development, and software development</h3>
+<h3 align="center">A passionate computer science student with a keen interest in AI/ML, web development.</h3>
 
 - 📫 How to reach me **sharmacheshta500@gmail.com**
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=250&section=header&text=CHESTA%20SHARMA&fontSize=75&fontColor=fbe798&desc=AI%20/%20ML%20ENTHUSIAST%20•%20CREATIVE%20DEVELOPER&descSize=23&descColor=fbe798&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=280&section=header&text=CHESTA%20SHARMA&fontSize=70&fontColor=fbe798&desc=AI%20/%20ML%20ENTHUSIAST%20•%20CREATIVE%20DEVELOPER&descSize=20&descColor=fbe798&animation=fadeIn&fontAlignY=38&descAlignY=62" width="100%"/>
 
 <br/>
 
-<code><b>🕹️ ᴘʟᴀʏᴇʀ_ɴᴀᴍᴇ:</b> CHESHTA | <b>💖 ʟɪᴠᴇꜱ:</b> 3/3 | <b>🔮 ᴍᴏᴅᴇ:</b> GRINDING_CODE</code>
+<code><b>🕹️ ᴘʟᴀʏᴇʀ_ɴᴀᴍᴇ:</b> CHESHTA | <b>💖 ʟɪᴠᴇꜱ:</b> cat | <b>🔮 ᴍᴏᴅᴇ:</b> GRINDING_CODE</code>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
       <p>📧 <b>Ping the grid:</b> <a href="mailto:sharmacheshta500@gmail.com">sharmacheshta500@gmail.com</a></p>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY5bjR3OHR4dnV6bnZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/q0S4Y7HlZ1N04/giphy.gif" width="220px" style="border-radius: 10px; border: 2px solid #800000;"/>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/q0S4Y7HlZ1N04/giphy.gif" width="220px" style="border-radius: 10px; border: 2px solid #800000;"/>
     </td>
   </tr>
 </table>

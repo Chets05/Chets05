@@ -4,44 +4,43 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/---%20SYSTEM%20STATUS%20---%20ACTIVE-800000?style=for-the-badge&logoColor=fbe798" />
-</p>
+<code><b>🕹️ ᴘʟᴀʏᴇʀ_ɴᴀᴍᴇ:</b> CHESHTA | <b>💖 ʟɪᴠᴇꜱ:</b> cat | <b>🔮 ᴍᴏᴅᴇ:</b> GRINDING_CODE</code>
+
+<br/>
+<br/>
 
 ---
 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>【 📂 ᴘʀᴏꜰɪʟᴇ_ᴍᴀɪɴ 】</h3>
-      <p><b>🎓 Student:</b> B.Tech CS (AI & ML)</p>
-      <p><b>🎯 Focus:</b> Neural Nets & Big Data</p>
-      <p><b>📍 Origin:</b> New Delhi, India</p>
-      <p><b>📧 Link:</b> <a href="mailto:sharmacheshta500@gmail.com">sharmacheshta500@gmail.com</a></p>
+      <p>🎓 <b>Student:</b> B.Tech CS (AI & ML)</p>
+      <p>🎯 <b>Focus:</b> Neural Nets & Big Data</p>
+      <p>📍 <b>Origin:</b> New Delhi, India</p>
+      <p>📧 <b>Link:</b> <a href="mailto:sharmacheshta500@gmail.com">sharmacheshta500@gmail.com</a></p>
     </td>
     <td width="50%" align="center">
       <h3>【 ⚡ ᴀᴄᴛɪᴠɪᴛʏ 】</h3>
-      <img src="https://media1.tenor.com/m/CHpInLzUAtAAAAAC/spongebob-squarepants-typing.gif" width="220px" style="border: 4px solid #800000; border-radius: 15px;"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/q0S4Y7HlZ1N04/giphy.gif" width="200px" style="border: 3px solid #800000; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30px"/> ᴄᴏʀᴇ_ʟᴏᴀᴅᴏᴜᴛ.exe</h3>
+<h3>💎 ᴄᴏʀᴇ_ʟᴏᴀᴅᴏᴜᴛ.exe</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,flask,django,gcp,mysql,html,css,git&theme=dark" />
 </p>
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="30px"/> ɴᴇᴜʀᴀʟ_ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ</h3>
+<h3>🔮 ɴᴇᴜʀᴀʟ_ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chets05&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=fbe798&text_color=a9b1d6&icon_color=800000&hide_border=true" height="160" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chets05&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=fbe798&text_color=a9b1d6&icon_color=800000&hide_border=true" height="160" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Chets05&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=fbe798&text_color=a9b1d6&icon_color=800000&hide_border=true" height="150" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chets05&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=fbe798&text_color=a9b1d6&icon_color=800000&hide_border=true" height="150" />
 
 <br/>
 
@@ -51,7 +50,7 @@
   <code style="color: #fbe798;">[ SESSION_TERMINATED ]</code>
   <br/><br/>
   <a href="https://linkedin.com/in/cheshta-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

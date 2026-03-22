@@ -22,7 +22,8 @@
     </td>
     <td width="50%" align="center">
       <p>
-      <img src="![HumpbackWhaleOnthe12thfloorGIF](https://github.com/user-attachments/assets/e0049347-af6b-43f7-85dc-328baf1041f9)
+      <img src="![NoGIF](https://github.com/user-attachments/assets/9db41133-cc69-4c52-9a78-8812389241dd)
+https://media.tenor.com/wPr24Ocx5ysAAAAS/no.gif
 " width="200px" style="border: 3px solid #800000; border-radius: 10px;"/>
       </p>
     </td>

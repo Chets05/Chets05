@@ -21,9 +21,10 @@
       <p>📧 <b>Link:</b> <a href="mailto:sharmacheshta500@gmail.com">sharmacheshta500@gmail.com</a></p>
     </td>
     <td width="50%" align="center">
-      
+      <p>
       <img src="![HumpbackWhaleOnthe12thfloorGIF](https://github.com/user-attachments/assets/e0049347-af6b-43f7-85dc-328baf1041f9)
 " width="200px" style="border: 3px solid #800000; border-radius: 10px;"/>
+      </p>
     </td>
   </tr>
 </table>

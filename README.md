@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=250&section=header&text=CHESTA%20SHARMA&fontSize=70&fontColor=fbe798&desc=AI%20/%20ML%20ENTHUSIAST%20•%20CREATIVE%20DEVELOPER&descSize=20&descColor=fbe798&animation=fadeIn&fontAlignY=38&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=250&section=header&text=CHESHTA%20SHARMA&fontSize=70&fontColor=fbe798&desc=AI%20/%20ML%20ENTHUSIAST%20•%20CREATIVE%20DEVELOPER&descSize=20&descColor=fbe798&animation=fadeIn&fontAlignY=38&descAlignY=62" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h3>【 📂 ᴘʀᴏꜰɪʟᴇ_ᴍᴀɪɴ 】</h3>
+      <h3>🐳Player_Info</h3>
       <p>🎓 <b>Student:</b> B.Tech CS (AI & ML)</p>
       <p>🎯 <b>Focus:</b> Neural Nets & Big Data</p>
       <p>📍 <b>Origin:</b> New Delhi, India</p>
@@ -22,7 +22,8 @@
     </td>
     <td width="50%" align="center">
       <h3>【 ⚡ ᴀᴄᴛɪᴠɪᴛʏ 】</h3>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nN2F5M3B6bnZidXNyeGN6cm9nJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/q0S4Y7HlZ1N04/giphy.gif" width="200px" style="border: 3px solid #800000; border-radius: 10px;"/>
+      <img src="![HumpbackWhaleOnthe12thfloorGIF](https://github.com/user-attachments/assets/e0049347-af6b-43f7-85dc-328baf1041f9)
+" width="200px" style="border: 3px solid #800000; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
